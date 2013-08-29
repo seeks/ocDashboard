@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<info>
+    <id>ocDashboard</id>
+    <name>Dashboard</name>
+    <description>There are some widgets, that you can use to show your informations quick and easy. NO COMMERCIAL USE</description>
+    <version>0.9</version>
+    <licence>AGPL</licence>
+    <author>Florian Steffens</author>
+    <require>5</require>
+</info>
